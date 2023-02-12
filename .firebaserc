@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "parseryotube",
+    "youtube-deploy": "parseryotube",
+    "parsYoutube": "parseryotube",
+    "youTube": "parseryotube",
+    "Youtube": "parseryotube",
+    "ParseYouTube": "parseryotube",
+    "parseYoutube": "parseryotube"
+  },
+  "targets": {},
+  "etags": {}
+}
